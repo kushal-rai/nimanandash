@@ -29,7 +29,7 @@ export default function Main() {
       <div
         className="absolute inset-0 z-0 bg-cover opacity-70 bg-center "
         style={{
-          backgroundImage: "url('../src/assets/img/hero.webp')",
+          backgroundImage: "url('../public/assets/img/hero.webp')",
         }}
       />
       <div className="relative z-10 text-black w-[80%] m-auto text-center space-y-5 md:space-y-20 md:pt-20 pt-10">
