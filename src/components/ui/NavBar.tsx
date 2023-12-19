@@ -10,7 +10,7 @@ export default function NavBar() {
             <Link to="/" className="cursor-pointer">
               <img
                 className="h-8 w-auto"
-                src={"public/assets/img/logo.png"}
+                src={"assets/img/logo.png"}
                 alt="Nimananda SH"
                 style={{ height: "48px" }}
               />
