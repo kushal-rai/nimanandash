@@ -1,6 +1,6 @@
 import AppLayout from "./pages/AppLayout";
 import GoogleForm from "./pages/GoogleForm";
-import { BrowserRouter, Routes, Route, HashRouter } from "react-router-dom";
+import { Routes, Route, HashRouter } from "react-router-dom";
 
 function App() {
   return (
