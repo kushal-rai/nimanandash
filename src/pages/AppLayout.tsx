@@ -82,7 +82,7 @@ export default function AppLayout() {
       <header>
         <NavBar />
         <div
-          className="w-full mr-10 absolute z-20 text-right"
+          className="w-full mr-8 right-1 absolute z-20 text-right"
           id="google_translate_element"
         ></div>
       </header>
@@ -102,7 +102,7 @@ export default function AppLayout() {
 
         <Main />
       </main>
-      <Footer />;
+      <Footer />
     </>
   );
 }
